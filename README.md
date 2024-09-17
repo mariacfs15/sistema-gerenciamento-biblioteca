@@ -22,19 +22,6 @@ A POO permite encapsular dados e métodos relacionados a livros, usuários e aç
 
 Com a POO em Java, é possível implementar funcionalidades para automação de empréstimos e devoluções, controle de estoque e relatórios de uso. Isso reduz a necessidade de processos manuais e diminui o risco de erros.
 
-# Interface e Experiência do Usuário:
-
-# Desenvolvimento de Interfaces: 
-
-A POO permite a criação de interfaces gráficas intuitivas para facilitar a interação dos usuários com o sistema de biblioteca. Isso melhora a experiência dos usuários na utilização do sistema.
-
-# Relatórios e Análises:
-
-# Geração de Relatórios: 
-
-Utilizando conceitos de POO, é possível desenvolver módulos para gerar relatórios detalhados sobre o uso da biblioteca, como estatísticas de empréstimos e inventário. Esses relatórios colaboram com a tomada de decisões para aquisição e manutenção de materiais.
-Escalabilidade e Manutenção:
-
 # Código Modular: 
 
 A POO favorece a criação de código modular, facilitando a manutenção e a escalabilidade do sistema. Isso permite que o sistema de gerenciamento de biblioteca evolua conforme as necessidades da escola mudam.
